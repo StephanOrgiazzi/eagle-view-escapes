@@ -9,8 +9,8 @@
         width: 100%;   
     }
 
-    @mixin atMedium {
-        &--medium-width-auto {
+    @mixin atLarge {
+        &--width-medium-auto {
             width: auto;
             max-width: auto;
         }
