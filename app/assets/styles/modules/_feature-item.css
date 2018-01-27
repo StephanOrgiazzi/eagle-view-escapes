@@ -1,0 +1,20 @@
+.feature-item {
+
+    display: flex;
+
+    @mixin atMedium {
+        padding: 1.5rem;
+        width: 50%;
+    }
+
+    &__description h3 {
+        margin-top: 0;
+        margin-bottom: .8rem;
+        font-weight: 300;
+        font-size: 1.875rem;
+    }
+
+    &__icon {
+        margin-right: 1.5rem;
+    }   
+}
