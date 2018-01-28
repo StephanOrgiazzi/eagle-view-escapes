@@ -1,0 +1,55 @@
+.testimonial-item {
+    background-color: rgba(255, 255, 255, .8);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 1rem;
+    padding-bottom: 1.5rem;
+    margin-top: 120px;
+
+    &:first-child {
+        margin-top: 6rem;
+    }
+
+    &:last-child {
+        margin-bottom: 0;
+    }
+
+    &__photo {
+        border: 6px solid #fff;
+        border-radius: 50%;
+        margin-top: -6rem;
+        margin-bottom: .7rem;
+    }
+
+    &__title {
+        color: $mainBlue;
+        font-size: 1.5rem;
+        font-weight: 500;
+        margin: 0;
+    }
+
+    &__subtitle {
+        color: $mainOrange;
+        font-size: .9375rem;
+        font-weight: 400;
+        margin: .25rem 0;
+    }
+
+
+    @mixin atMedium {
+        width: 33%;
+        margin: 1rem;
+        margin-top: 4rem;
+        padding: 0 1.8125rem;
+
+        &:first-child {
+            margin-top: 4rem;
+        }
+
+        &:last-child {
+            margin-bottom: 1rem;
+        }
+    }
+    
+}

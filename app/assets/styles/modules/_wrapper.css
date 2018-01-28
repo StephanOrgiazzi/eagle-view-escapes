@@ -13,6 +13,17 @@
         padding-right: 0;
     }
 
+    &--nopadding-small {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+        @mixin atMedium {
+            &--nopadding-small {
+                padding: 0 1rem;
+            }
+        }
+
     &--b-margin {
         margin-bottom: 1rem;
 

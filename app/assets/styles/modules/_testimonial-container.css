@@ -1,0 +1,5 @@
+.testimonial-container {
+    @mixin atMedium {
+        display: flex;
+    }
+}

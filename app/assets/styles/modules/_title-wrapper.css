@@ -13,8 +13,11 @@
         margin-top: 0;
     }
 
+    &__title--blue {
+        color: $mainBlue;
+    }
+
     @mixin atSmall {
-        font-size: 3.75rem;
         flex-direction: row;
 
         &__icon {
@@ -22,7 +25,8 @@
         }
     
         &__title {
-            margin-top: 1.6rem;
+            margin-top: 2.5rem;
+            font-size: 3.75rem;
         }
     
     }
