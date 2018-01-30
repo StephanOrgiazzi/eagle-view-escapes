@@ -18,6 +18,7 @@
   "homepage": "https://github.com/StephanOrgiazzi/eagle-view-escapes#readme",
   "dependencies": {
     "jquery": "^3.3.1",
+    "lazysizes": "^4.0.1",
     "normalize.css": "^7.0.0"
   },
   "devDependencies": {

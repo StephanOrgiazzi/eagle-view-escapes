@@ -8,4 +8,4 @@ const mobileMenu = new MobileMenu();
 new RevealOnScroll($(".feature-item"), "85%");
 new RevealOnScroll($(".testimonial-item"), "70%");
 const stickyHeader = new StickyHeader();
-const modal = new Modal();
+const modal = new Modal(); 
