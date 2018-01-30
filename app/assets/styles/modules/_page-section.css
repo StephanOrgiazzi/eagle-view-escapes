@@ -11,8 +11,8 @@
     }
 
     @mixin atMedium {
-        padding: 2rem 0;
-        padding-bottom: 4rem;
+        padding: 3rem 0;
+        padding-bottom: 6rem;
         
         &--testimonials {
             background: url("/assets/images/testimonials-bg.jpg") top center no-repeat;
