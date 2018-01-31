@@ -1,6 +1,6 @@
 # eagle-view-escapes
 
-A one page travel agency demo website showcasing what I think is 2018's best practices (UX, SEO, accessibility, performance) and built using modern front-end development workflow.
+A one page travel agency demo website showcasing what I think are 2018's best practices (UX, SEO, accessibility, performance) and built using modern front-end development workflow.
 
 Visit page here: https://stephanorgiazzi.github.io/eagle-view-dist/
 
@@ -20,10 +20,10 @@ Google User Experience Score: 96/100
 
 ### Performance
 
-This page has been optimized for best performances :
+This page has been optimized for best performances:
   - Minified JS and CSS using Uglify and CSSNano
   - Compressed images using Imagemin
-  - Automatic Sprites using SVG-sprites
+  - Sprites, generated automatically using SVG-sprites
   - Lazy-loaded images using lazysizes
   - Extensive use of Responsive images (different sizes and DPIs to match the user's current display)
 
