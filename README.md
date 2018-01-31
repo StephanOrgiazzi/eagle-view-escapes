@@ -29,4 +29,4 @@ This page has been optimized for best performances:
 
 ### SEO
 
-This website is following the latest recommendations in terms of SEO, making use of meta tags that really matter such as Open Graph and Twitter cards meta tags.
+This website is following the latest recommendations in terms of SEO, making use of semantic tags, "alt" and "role" attributes and meta tags that really matter such as Open Graph and Twitter cards meta tags.
