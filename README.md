@@ -25,7 +25,7 @@ This page has been optimized for best performances :
   - Compressed images using Imagemin
   - Automatic Sprites using SVG-sprites
   - Lazy-loaded images using lazysizes
-  - Extensive use of Responsive images (different sizes and DPIs to match the user's display)
+  - Extensive use of Responsive images (different sizes and DPIs to match the user's current display)
 
 ### SEO
 
