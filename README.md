@@ -15,7 +15,7 @@ I also experimented with the BEM (Block-Element-Modifier) method for CSS, which 
 
 ### UX
 
-Fully responsive website, cross-browser accessible and optimized for mobile.
+Fully responsive website, cross-browser accessible (except IE) and optimized for mobile.
 Google User Experience Score: 96/100
 
 ### Performance
